@@ -1,0 +1,10 @@
+[ 3817.185895] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+[ 3817.185898] cfg80211:   (5490000 KHz - 5710000 KHz @ 160000 KHz), (N/A, 2300 mBm), (0 s)
+[ 3817.185901] cfg80211:   (59000000 KHz - 66000000 KHz @ 2160000 KHz), (N/A, 1000 mBm), (N/A)
+[ 3824.149794] xhci_hcd 0000:00:14.0: Command completion event does not match command
+[ 3824.149821] xhci_hcd 0000:00:14.0: Timeout while waiting for setup device command
+[ 3829.365867] xhci_hcd 0000:00:14.0: Timeout while waiting for setup device command
+[ 3829.569902] usb 1-5: device not accepting address 7, error -62
+[ 3829.681845] usb 1-5: new full-speed USB device number 8 using xhci_hcd
+[ 3834.814867] usb 1-5: New USB device found, idVendor=04ca, idProduct=3014
+[ 3834.814876] usb 1-5: New USB device strings: Mfr=0, Product=0, SerialNumber=0
